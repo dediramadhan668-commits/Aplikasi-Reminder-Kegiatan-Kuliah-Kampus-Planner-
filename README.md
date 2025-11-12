@@ -10,41 +10,38 @@ Deskripsi
 
 # Fitur Utama
 
-Splash Screen:
+# Splash Screen:
 Menampilkan logo aplikasi, bendera Indonesia, dan sapaan otomatis sesuai lokasi pengguna.
 
-Login:
-Form untuk masuk ke akun pengguna dengan kolom email dan password.
-
-Home:
+# Home:
 Menampilkan daftar jadwal kuliah serta tombol untuk menambah jadwal baru.
 
-Tambah Jadwal:
+# Tambah Jadwal:
 Form input Nama Mata Kuliah, Hari, dan Waktu untuk menambahkan kegiatan baru.
 
-Pengingat:
+# Pengingat:
 Daftar tugas dan ujian dengan opsi menambahkan pengingat baru.
 
-Pengaturan:
+# Pengaturan:
 Menu Akun, Notifikasi, dan Tentang Aplikasi.
 
-Tools yang Digunakan
+# Tools yang Digunakan
 
-Figma untuk desain UI/UX
+<h1> Figma untuk desain UI/UX </h1>
 
-ClickUp untuk manajemen timeline dan to-do list
+<h1> ClickUp untuk manajemen timeline dan to-do list </h1>
 
-GitHub untuk penyimpanan repository desain
+<h1> GitHub untuk penyimpanan repository desain </h1>
 
-Link Tambahan
+# Link Tambahan
 
 File Desain Figma: [masukkan link Figma kamu di sini]
 
-ClickUp Timeline: [masukkan link ClickUp kamu di sini]
+ClickUp Timeline:(https://app.clickup.com/90181810212/v/s/90188039596)
 
-Pembuat
+# Pembuat
 
-Nama: Dedi Ramadhan
-Kelas: TI.24.A.4
-Mata Kuliah: Pemrograman Mobile 1
-Universitas: Pelita Bangsa
+# Nama: Dedi Ramadhan
+# Kelas: TI.24.A.4
+# Mata Kuliah: Pemrograman Mobile 1
+# Universitas: Pelita Bangsa
