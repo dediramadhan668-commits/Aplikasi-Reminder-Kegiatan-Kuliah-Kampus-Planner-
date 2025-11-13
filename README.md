@@ -35,9 +35,9 @@ Menu Akun, Notifikasi, dan Tentang Aplikasi.
 
 # Link Tambahan
 
-File Desain Figma: [masukkan link Figma kamu di sini]
+File Desain Figma:(https://www.figma.com/design/x2q7lEmmSzSe1buMdpqY7i/UX-PROJECT?m=auto&t=L5PYGw6BkS387PYk-6)
 
-ClickUp Timeline:(https://app.clickup.com/90181810212/v/s/90188039596)
+ClickUp Timeline: (https://app.clickup.com/90181810212/v/s/90188039596)
 
 # Pembuat
 
